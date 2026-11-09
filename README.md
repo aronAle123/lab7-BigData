@@ -1,2 +1,3 @@
 # lab7-BigData
-Manipular y extender el script de exploración en Google Colab para evaluar de forma empírica el impacto del cuello de botella de I/O y el filtrado avanzado en disco (Predicate Pushdown) entre formatos basados en filas y formatos columnares masivos.
+Intervenir un pipeline ETL en Google Colab para implementar lógicas avanzadas de limpieza de datos (descarte inteligente vs. imputación), estandarización estadística y diseño arquitectónico mediante la creación de una capa de cuarentena en un Data Lake simulado.
+
